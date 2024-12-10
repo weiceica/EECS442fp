@@ -1,0 +1,100 @@
+Epoch: [ 0/100], cls_loss: 3.4256, transfer_loss: 0.1622, kl_loss_src: 3610.1850, kl_loss_tar: 3576.0475, total_Loss: 3.5067, acc: 0.0334
+Epoch: [ 1/100], cls_loss: 3.3861, transfer_loss: 0.1628, kl_loss_src: 3591.6974, kl_loss_tar: 3573.3276, total_Loss: 3.4675, acc: 0.0355
+Epoch: [ 2/100], cls_loss: 3.3442, transfer_loss: 0.1616, kl_loss_src: 3639.0134, kl_loss_tar: 3564.8560, total_Loss: 3.4250, acc: 0.0554
+Epoch: [ 3/100], cls_loss: 3.3108, transfer_loss: 0.1638, kl_loss_src: 3601.4956, kl_loss_tar: 3543.1972, total_Loss: 3.3927, acc: 0.0518
+Epoch: [ 4/100], cls_loss: 3.2789, transfer_loss: 0.1617, kl_loss_src: 3626.1938, kl_loss_tar: 3561.0058, total_Loss: 3.3597, acc: 0.0724
+Epoch: [ 5/100], cls_loss: 3.2397, transfer_loss: 0.1647, kl_loss_src: 3598.4887, kl_loss_tar: 3568.4085, total_Loss: 3.3220, acc: 0.0870
+Epoch: [ 6/100], cls_loss: 3.2000, transfer_loss: 0.1618, kl_loss_src: 3580.0624, kl_loss_tar: 3529.3090, total_Loss: 3.2809, acc: 0.1232
+Epoch: [ 7/100], cls_loss: 3.1395, transfer_loss: 0.1610, kl_loss_src: 3581.2688, kl_loss_tar: 3529.3567, total_Loss: 3.2200, acc: 0.1424
+Epoch: [ 8/100], cls_loss: 3.0862, transfer_loss: 0.1624, kl_loss_src: 3580.1856, kl_loss_tar: 3552.4694, total_Loss: 3.1674, acc: 0.1693
+Epoch: [ 9/100], cls_loss: 3.0200, transfer_loss: 0.1620, kl_loss_src: 3571.6546, kl_loss_tar: 3521.9701, total_Loss: 3.1010, acc: 0.1750
+Epoch: [10/100], cls_loss: 2.9358, transfer_loss: 0.1643, kl_loss_src: 3575.7671, kl_loss_tar: 3515.7410, total_Loss: 3.0180, acc: 0.2208
+Epoch: [11/100], cls_loss: 2.8407, transfer_loss: 0.1617, kl_loss_src: 3564.6647, kl_loss_tar: 3531.1684, total_Loss: 2.9216, acc: 0.2183
+Epoch: [12/100], cls_loss: 2.7441, transfer_loss: 0.1630, kl_loss_src: 3595.6756, kl_loss_tar: 3513.3990, total_Loss: 2.8256, acc: 0.2481
+Epoch: [13/100], cls_loss: 2.6426, transfer_loss: 0.1613, kl_loss_src: 3578.3078, kl_loss_tar: 3527.2887, total_Loss: 2.7233, acc: 0.2673
+Epoch: [14/100], cls_loss: 2.5273, transfer_loss: 0.1617, kl_loss_src: 3539.9410, kl_loss_tar: 3535.5761, total_Loss: 2.6082, acc: 0.3017
+Epoch: [15/100], cls_loss: 2.3944, transfer_loss: 0.1627, kl_loss_src: 3600.3712, kl_loss_tar: 3493.2436, total_Loss: 2.4758, acc: 0.3035
+Epoch: [16/100], cls_loss: 2.2956, transfer_loss: 0.1627, kl_loss_src: 3569.6775, kl_loss_tar: 3484.6890, total_Loss: 2.3769, acc: 0.3074
+Epoch: [17/100], cls_loss: 2.1769, transfer_loss: 0.1640, kl_loss_src: 3546.1844, kl_loss_tar: 3524.4354, total_Loss: 2.2589, acc: 0.3291
+Epoch: [18/100], cls_loss: 2.0539, transfer_loss: 0.1616, kl_loss_src: 3530.9859, kl_loss_tar: 3474.6289, total_Loss: 2.1347, acc: 0.3376
+Epoch: [19/100], cls_loss: 1.9440, transfer_loss: 0.1638, kl_loss_src: 3512.9829, kl_loss_tar: 3454.9911, total_Loss: 2.0259, acc: 0.3387
+Epoch: [20/100], cls_loss: 1.8400, transfer_loss: 0.1628, kl_loss_src: 3540.6920, kl_loss_tar: 3516.9379, total_Loss: 1.9215, acc: 0.3596
+Epoch: [21/100], cls_loss: 1.7177, transfer_loss: 0.1623, kl_loss_src: 3521.4647, kl_loss_tar: 3480.3959, total_Loss: 1.7988, acc: 0.3482
+Epoch: [22/100], cls_loss: 1.6279, transfer_loss: 0.1626, kl_loss_src: 3520.8899, kl_loss_tar: 3462.8791, total_Loss: 1.7092, acc: 0.3546
+Epoch: [23/100], cls_loss: 1.5371, transfer_loss: 0.1619, kl_loss_src: 3518.2991, kl_loss_tar: 3440.1117, total_Loss: 1.6180, acc: 0.3671
+Epoch: [24/100], cls_loss: 1.4469, transfer_loss: 0.1620, kl_loss_src: 3533.9230, kl_loss_tar: 3437.4092, total_Loss: 1.5278, acc: 0.3639
+Epoch: [25/100], cls_loss: 1.3731, transfer_loss: 0.1626, kl_loss_src: 3503.5899, kl_loss_tar: 3431.5276, total_Loss: 1.4544, acc: 0.3688
+Epoch: [26/100], cls_loss: 1.3201, transfer_loss: 0.1627, kl_loss_src: 3479.9155, kl_loss_tar: 3440.9086, total_Loss: 1.4015, acc: 0.3738
+Epoch: [27/100], cls_loss: 1.2581, transfer_loss: 0.1617, kl_loss_src: 3498.2439, kl_loss_tar: 3445.8966, total_Loss: 1.3389, acc: 0.3788
+Epoch: [28/100], cls_loss: 1.1848, transfer_loss: 0.1611, kl_loss_src: 3483.5153, kl_loss_tar: 3427.8154, total_Loss: 1.2653, acc: 0.3884
+Epoch: [29/100], cls_loss: 1.1584, transfer_loss: 0.1618, kl_loss_src: 3498.2325, kl_loss_tar: 3446.7723, total_Loss: 1.2393, acc: 0.3887
+Epoch: [30/100], cls_loss: 1.0880, transfer_loss: 0.1603, kl_loss_src: 3518.9833, kl_loss_tar: 3451.8765, total_Loss: 1.1682, acc: 0.3866
+Epoch: [31/100], cls_loss: 1.0508, transfer_loss: 0.1610, kl_loss_src: 3526.3499, kl_loss_tar: 3448.2151, total_Loss: 1.1313, acc: 0.3859
+Epoch: [32/100], cls_loss: 1.0059, transfer_loss: 0.1594, kl_loss_src: 3489.7456, kl_loss_tar: 3462.0370, total_Loss: 1.0856, acc: 0.3916
+Epoch: [33/100], cls_loss: 0.9663, transfer_loss: 0.1593, kl_loss_src: 3524.5173, kl_loss_tar: 3466.7708, total_Loss: 1.0459, acc: 0.3930
+Epoch: [34/100], cls_loss: 0.9353, transfer_loss: 0.1588, kl_loss_src: 3540.7272, kl_loss_tar: 3450.5544, total_Loss: 1.0148, acc: 0.4068
+Epoch: [35/100], cls_loss: 0.9118, transfer_loss: 0.1555, kl_loss_src: 3553.0778, kl_loss_tar: 3503.6198, total_Loss: 0.9895, acc: 0.4043
+Epoch: [36/100], cls_loss: 0.8430, transfer_loss: 0.1543, kl_loss_src: 3570.5519, kl_loss_tar: 3513.7180, total_Loss: 0.9201, acc: 0.3955
+Epoch: [37/100], cls_loss: 0.8331, transfer_loss: 0.1538, kl_loss_src: 3569.7122, kl_loss_tar: 3582.1187, total_Loss: 0.9100, acc: 0.4097
+Epoch: [38/100], cls_loss: 0.7838, transfer_loss: 0.1503, kl_loss_src: 3593.4804, kl_loss_tar: 3612.2442, total_Loss: 0.8589, acc: 0.4089
+Epoch: [39/100], cls_loss: 0.7892, transfer_loss: 0.1484, kl_loss_src: 3655.8608, kl_loss_tar: 3641.4138, total_Loss: 0.8633, acc: 0.4168
+Epoch: [40/100], cls_loss: 0.7397, transfer_loss: 0.1481, kl_loss_src: 3661.1047, kl_loss_tar: 3706.1037, total_Loss: 0.8137, acc: 0.4136
+Epoch: [41/100], cls_loss: 0.7164, transfer_loss: 0.1425, kl_loss_src: 3660.9203, kl_loss_tar: 3810.4167, total_Loss: 0.7877, acc: 0.4185
+Epoch: [42/100], cls_loss: 0.6997, transfer_loss: 0.1418, kl_loss_src: 3737.0340, kl_loss_tar: 3795.9030, total_Loss: 0.7706, acc: 0.4164
+Epoch: [43/100], cls_loss: 0.6544, transfer_loss: 0.1361, kl_loss_src: 3780.2922, kl_loss_tar: 3874.3352, total_Loss: 0.7224, acc: 0.4263
+Epoch: [44/100], cls_loss: 0.6473, transfer_loss: 0.1337, kl_loss_src: 3816.7761, kl_loss_tar: 3908.2264, total_Loss: 0.7142, acc: 0.4239
+Epoch: [45/100], cls_loss: 0.6457, transfer_loss: 0.1327, kl_loss_src: 3844.6648, kl_loss_tar: 4009.8403, total_Loss: 0.7121, acc: 0.4200
+Epoch: [46/100], cls_loss: 0.6366, transfer_loss: 0.1274, kl_loss_src: 3916.6628, kl_loss_tar: 4189.0875, total_Loss: 0.7003, acc: 0.4242
+Epoch: [47/100], cls_loss: 0.6095, transfer_loss: 0.1252, kl_loss_src: 4019.3891, kl_loss_tar: 4196.8117, total_Loss: 0.6721, acc: 0.4239
+Epoch: [48/100], cls_loss: 0.5773, transfer_loss: 0.1257, kl_loss_src: 3919.5302, kl_loss_tar: 4307.1737, total_Loss: 0.6401, acc: 0.4292
+Epoch: [49/100], cls_loss: 0.6104, transfer_loss: 0.1234, kl_loss_src: 4005.7058, kl_loss_tar: 4287.4487, total_Loss: 0.6721, acc: 0.4317
+Epoch: [50/100], cls_loss: 0.5726, transfer_loss: 0.1196, kl_loss_src: 4030.5813, kl_loss_tar: 4417.0170, total_Loss: 0.6324, acc: 0.4356
+Epoch: [51/100], cls_loss: 0.5407, transfer_loss: 0.1185, kl_loss_src: 4123.9251, kl_loss_tar: 4557.0308, total_Loss: 0.6000, acc: 0.4370
+Epoch: [52/100], cls_loss: 0.5253, transfer_loss: 0.1154, kl_loss_src: 4135.7498, kl_loss_tar: 4615.0753, total_Loss: 0.5830, acc: 0.4388
+Epoch: [53/100], cls_loss: 0.5152, transfer_loss: 0.1139, kl_loss_src: 4137.7755, kl_loss_tar: 4713.5396, total_Loss: 0.5721, acc: 0.4295
+Epoch: [54/100], cls_loss: 0.5336, transfer_loss: 0.1128, kl_loss_src: 4363.7330, kl_loss_tar: 4872.0794, total_Loss: 0.5901, acc: 0.4267
+Epoch: [55/100], cls_loss: 0.4913, transfer_loss: 0.1125, kl_loss_src: 4323.3529, kl_loss_tar: 4969.8886, total_Loss: 0.5476, acc: 0.4317
+Epoch: [56/100], cls_loss: 0.4687, transfer_loss: 0.1118, kl_loss_src: 4263.9035, kl_loss_tar: 4843.9621, total_Loss: 0.5245, acc: 0.4412
+Epoch: [57/100], cls_loss: 0.4921, transfer_loss: 0.1089, kl_loss_src: 4643.4641, kl_loss_tar: 5072.0979, total_Loss: 0.5465, acc: 0.4334
+Epoch: [58/100], cls_loss: 0.5256, transfer_loss: 0.1069, kl_loss_src: 4396.3577, kl_loss_tar: 4875.1017, total_Loss: 0.5790, acc: 0.4388
+Epoch: [59/100], cls_loss: 0.4631, transfer_loss: 0.1074, kl_loss_src: 4413.5040, kl_loss_tar: 5137.6326, total_Loss: 0.5168, acc: 0.4334
+Epoch: [60/100], cls_loss: 0.4123, transfer_loss: 0.1049, kl_loss_src: 4599.3697, kl_loss_tar: 4972.0579, total_Loss: 0.4648, acc: 0.4384
+Epoch: [61/100], cls_loss: 0.4440, transfer_loss: 0.1064, kl_loss_src: 4578.7887, kl_loss_tar: 5006.7326, total_Loss: 0.4972, acc: 0.4356
+Epoch: [62/100], cls_loss: 0.4497, transfer_loss: 0.1039, kl_loss_src: 4536.4096, kl_loss_tar: 5258.8000, total_Loss: 0.5016, acc: 0.4416
+Epoch: [63/100], cls_loss: 0.4194, transfer_loss: 0.1032, kl_loss_src: 4636.8400, kl_loss_tar: 5213.8752, total_Loss: 0.4710, acc: 0.4427
+Epoch: [64/100], cls_loss: 0.3821, transfer_loss: 0.1028, kl_loss_src: 4556.1805, kl_loss_tar: 5925.7528, total_Loss: 0.4335, acc: 0.4402
+Epoch: [65/100], cls_loss: 0.4443, transfer_loss: 0.1025, kl_loss_src: 4573.7604, kl_loss_tar: 5701.2681, total_Loss: 0.4956, acc: 0.4430
+Epoch: [66/100], cls_loss: 0.3490, transfer_loss: 0.1020, kl_loss_src: 4792.0269, kl_loss_tar: 5909.0707, total_Loss: 0.4000, acc: 0.4444
+Epoch: [67/100], cls_loss: 0.3911, transfer_loss: 0.1021, kl_loss_src: 4901.6971, kl_loss_tar: 5684.8595, total_Loss: 0.4421, acc: 0.4441
+Epoch: [68/100], cls_loss: 0.3483, transfer_loss: 0.0994, kl_loss_src: 4894.1943, kl_loss_tar: 5490.7821, total_Loss: 0.3980, acc: 0.4416
+Epoch: [69/100], cls_loss: 0.3451, transfer_loss: 0.1004, kl_loss_src: 4965.0626, kl_loss_tar: 6173.8061, total_Loss: 0.3953, acc: 0.4448
+Epoch: [70/100], cls_loss: 0.3695, transfer_loss: 0.0991, kl_loss_src: 4909.6024, kl_loss_tar: 5689.9290, total_Loss: 0.4190, acc: 0.4530
+Epoch: [71/100], cls_loss: 0.3207, transfer_loss: 0.1002, kl_loss_src: 4718.5331, kl_loss_tar: 5848.2077, total_Loss: 0.3708, acc: 0.4459
+Epoch: [72/100], cls_loss: 0.3440, transfer_loss: 0.0978, kl_loss_src: 4965.4183, kl_loss_tar: 6190.8334, total_Loss: 0.3929, acc: 0.4501
+Epoch: [73/100], cls_loss: 0.3440, transfer_loss: 0.0964, kl_loss_src: 5205.9416, kl_loss_tar: 5947.2913, total_Loss: 0.3921, acc: 0.4519
+Epoch: [74/100], cls_loss: 0.3338, transfer_loss: 0.0983, kl_loss_src: 4917.6999, kl_loss_tar: 5803.6477, total_Loss: 0.3829, acc: 0.4469
+Epoch: [75/100], cls_loss: 0.3354, transfer_loss: 0.0958, kl_loss_src: 4940.0471, kl_loss_tar: 5970.3507, total_Loss: 0.3833, acc: 0.4494
+Epoch: [76/100], cls_loss: 0.3408, transfer_loss: 0.0944, kl_loss_src: 5290.5242, kl_loss_tar: 5427.2593, total_Loss: 0.3880, acc: 0.4508
+Epoch: [77/100], cls_loss: 0.3728, transfer_loss: 0.0946, kl_loss_src: 5234.5116, kl_loss_tar: 6039.6531, total_Loss: 0.4200, acc: 0.4512
+Epoch: [78/100], cls_loss: 0.3339, transfer_loss: 0.0959, kl_loss_src: 5283.3538, kl_loss_tar: 6566.2707, total_Loss: 0.3819, acc: 0.4515
+Epoch: [79/100], cls_loss: 0.3286, transfer_loss: 0.0950, kl_loss_src: 4818.1343, kl_loss_tar: 7990.0175, total_Loss: 0.3761, acc: 0.4558
+Epoch: [80/100], cls_loss: 0.2843, transfer_loss: 0.0949, kl_loss_src: 5283.7787, kl_loss_tar: 7225.6746, total_Loss: 0.3317, acc: 0.4519
+Epoch: [81/100], cls_loss: 0.3352, transfer_loss: 0.0936, kl_loss_src: 5472.0349, kl_loss_tar: 6024.5838, total_Loss: 0.3820, acc: 0.4519
+Epoch: [82/100], cls_loss: 0.2974, transfer_loss: 0.0916, kl_loss_src: 5124.6465, kl_loss_tar: 5849.4887, total_Loss: 0.3432, acc: 0.4519
+Epoch: [83/100], cls_loss: 0.2974, transfer_loss: 0.0935, kl_loss_src: 5218.3393, kl_loss_tar: 6555.4331, total_Loss: 0.3441, acc: 0.4508
+Epoch: [84/100], cls_loss: 0.2786, transfer_loss: 0.0936, kl_loss_src: 5080.6158, kl_loss_tar: 7046.2004, total_Loss: 0.3254, acc: 0.4551
+Epoch: [85/100], cls_loss: 0.3341, transfer_loss: 0.0938, kl_loss_src: 5374.8775, kl_loss_tar: 6254.4716, total_Loss: 0.3811, acc: 0.4459
+Epoch: [86/100], cls_loss: 0.2547, transfer_loss: 0.0922, kl_loss_src: 5179.7206, kl_loss_tar: 6102.2631, total_Loss: 0.3008, acc: 0.4480
+Epoch: [87/100], cls_loss: 0.2929, transfer_loss: 0.0940, kl_loss_src: 5008.9014, kl_loss_tar: 6289.1045, total_Loss: 0.3399, acc: 0.4530
+Epoch: [88/100], cls_loss: 0.2663, transfer_loss: 0.0923, kl_loss_src: 5281.5865, kl_loss_tar: 6474.9079, total_Loss: 0.3124, acc: 0.4448
+Epoch: [89/100], cls_loss: 0.2783, transfer_loss: 0.0913, kl_loss_src: 5292.2103, kl_loss_tar: 6315.1966, total_Loss: 0.3240, acc: 0.4441
+Epoch: [90/100], cls_loss: 0.2744, transfer_loss: 0.0917, kl_loss_src: 5424.9604, kl_loss_tar: 6300.0241, total_Loss: 0.3203, acc: 0.4480
+Epoch: [91/100], cls_loss: 0.2491, transfer_loss: 0.0915, kl_loss_src: 5529.6477, kl_loss_tar: 6360.1210, total_Loss: 0.2949, acc: 0.4554
+Epoch: [92/100], cls_loss: 0.2741, transfer_loss: 0.0904, kl_loss_src: 6072.0736, kl_loss_tar: 8272.3831, total_Loss: 0.3193, acc: 0.4629
+Epoch: [93/100], cls_loss: 0.2907, transfer_loss: 0.0903, kl_loss_src: 5508.0352, kl_loss_tar: 7555.9256, total_Loss: 0.3358, acc: 0.4533
+Epoch: [94/100], cls_loss: 0.2523, transfer_loss: 0.0893, kl_loss_src: 5343.6467, kl_loss_tar: 11104.3563, total_Loss: 0.2969, acc: 0.4576
+Epoch: [95/100], cls_loss: 0.2518, transfer_loss: 0.0911, kl_loss_src: 5455.8636, kl_loss_tar: 6660.2778, total_Loss: 0.2973, acc: 0.4586
+Epoch: [96/100], cls_loss: 0.2642, transfer_loss: 0.0890, kl_loss_src: 5547.4484, kl_loss_tar: 7033.7997, total_Loss: 0.3088, acc: 0.4601
+Epoch: [97/100], cls_loss: 0.2431, transfer_loss: 0.0860, kl_loss_src: 5976.8416, kl_loss_tar: 6568.0490, total_Loss: 0.2861, acc: 0.4494
+Epoch: [98/100], cls_loss: 0.2200, transfer_loss: 0.0864, kl_loss_src: 5561.9180, kl_loss_tar: 6623.4638, total_Loss: 0.2632, acc: 0.4540
+Epoch: [99/100], cls_loss: 0.2472, transfer_loss: 0.0875, kl_loss_src: 5604.8585, kl_loss_tar: 8646.5961, total_Loss: 0.2910, acc: 0.4476
