@@ -31,7 +31,7 @@ def square_attack(model, image, side_length=4, max_iters=100):
         perturbation = torch.rand_like(adv_image[:, :, x_start:x_start+side_length, y_start:y_start+side_length])
         adv_image[:, :, x_start:x_start+side_length, y_start:y_start+side_length] = perturbation
 
-        _ = model(adv_image)  # You can stop here if specific conditions are met.
+        _ = model(adv_image)
 
     return adv_image
 
@@ -57,7 +57,6 @@ def process_office31_dataset(input_dir, output_dir, model, side_length=4, max_it
         transforms.ToPILImage()
     ])
 
-    # Create the output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
     for root, _, files in os.walk(input_dir):
